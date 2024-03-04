@@ -1,5 +1,8 @@
 # DCC Portfolio  
 
+## Software Renderer
+实现3D渲染器，光栅化流程。
+
 ## Blender  
 源文件在相应文件夹下，显卡水平一般，渲染效果一般。  
 
